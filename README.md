@@ -1,2 +1,2 @@
-# OIBSIP-NO-Guess-Game
+# OIBSIP
 Task-2 (Java Programming)
